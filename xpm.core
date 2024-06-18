@@ -1,5 +1,5 @@
 CAPI=2:
-name : xpm_vhdl
+name : xpm:xpm_vhdl:0.1
 
 filesets:
   xpm:
